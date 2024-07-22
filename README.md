@@ -62,3 +62,14 @@ You can start questioning by prompting your requireed query. Here are some sampl
      4. I've a MAC computer. Can I use powerbi on it?
      5. I don't see power pivot. how can I enable it?
 
+
+## Project Structure
+
+- main.py: The main Streamlit application script.
+- langchain_helper.py: This has all the langchain code
+- requirements.txt: A list of required Python packages for the project.
+- .env: Configuration file for storing your Google API key.
+
+## Authors
+
+- [@mehwish4610](https://www.github.com/mehwish4610)
